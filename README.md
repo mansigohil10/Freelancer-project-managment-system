@@ -5,13 +5,13 @@
 This is a backend API built with Node.js, Express, and MongoDB for managing projects and payments. It provides essential CRUD functionalities, user authentication, and bulk import/export capabilities. The project also includes a simulated payment handling system.
 
 ## Technologies Used
-Node.js
-Express
-MongoDB
-Mongoose
-nodemon
-JWT for authentication
-Multer for file uploads
+Node.js<br>
+Express<br>
+MongoDB<br>
+Mongoose<br>
+nodemon<br>
+JWT for authentication<br>
+Multer for file uploads<br>
 CSV-parser for processing CSV files
 
 
