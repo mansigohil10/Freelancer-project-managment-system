@@ -24,9 +24,6 @@ CSV-parser for processing CSV files
 
    npm install
 
-   
-<p>Set up environment variables:</p>
-<p>Create a <code>.env</code> file in the root directory and add the following:</p>
 PORT=5000</br>
 MONGO_URI=mongodb://localhost:27017/project_management</br>
 JWT_SECRET=your_secret_key<br/></br>
